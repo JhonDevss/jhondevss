@@ -58,6 +58,14 @@ Olá! Me chamo Jhonatthan Filho, sou um aspirante a desenvolvedor com foco em fr
 />
 <img 
     align="left" 
+    alt="ViteJS" 
+    title="ViteJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
