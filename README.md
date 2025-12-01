@@ -66,4 +66,13 @@ Olá! Me chamo Jhonatthan Filho, sou um aspirante a desenvolvedor com foco em fr
 />
 
 <br/>
+
+<img
+    align="left"
+    alt="Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondevss&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
+
 <br/>
