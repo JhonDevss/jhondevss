@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 **`Desenvolvedor Bot Discord`**
 
-Olá! Me chamo Jhonatthan Filho, sou um aspirante a desenvolvedor com foco em front-end. Tenho curso técnico em informática, realizado no IFCE e estou sempre buscando aprimorar meus conhecimentos na minha área. Também sou desenvolvedor de bots para Discord e estou sempre em busca de novos projetos, tendo foco em criar soluções automatizadas que melhoram a experiência dos usuários e facilitam o gerenciamento de comunidades. 
+Olá! Me chamo Jhonatthan Filho e sou um aspirante a desenvolvedor. Tenho curso técnico em informática, realizado no IFCE, e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Unifor. Estou sempre buscando aprimorar meus conhecimentos na minha área. Atualmente meu foco está no desenvolvimento de bots para Discord e estou sempre em busca de novos projetos que possam me dar experiência.
 
 ---
 
