@@ -4,7 +4,7 @@
 **`Desenvolvedor Backend`**
 **`Desenvolvedor Bot Discord`**
 
-Olá! Me chamo Jhonatthan Filho e sou um aspirante a desenvolvedor. Tenho curso técnico em informática, realizado no IFCE, e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Unifor. Estou sempre buscando aprimorar meus conhecimentos na minha área. Atualmente meu foco está no desenvolvimento de bots para Discord e estou sempre em busca de novos projetos que possam me dar experiência.
+Olá! Me chamo Jhonatthan Filho e sou um aspirante a desenvolvedor. Tenho curso técnico em informática, realizado no IFCE, e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Unifor. Estou sempre buscando aprimorar meus conhecimentos na minha área. Estou sempre em busca de novos projetos que possam me dar experiência.
 
 ---
 
